@@ -3,25 +3,25 @@
     "vocab_length": 1804
   },
   "test_build_lm": {
-    "english_2_gram_length": 747,
-    "english_3_gram_length": 8238,
-    "french_3_gram_length": 8285,
-    "spanish_3_gram_length": 8468
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
   },
   "test_eval": {
     "en_on_en": 18.15,
-    "en_on_fr": 46.72,
-    "en_on_tl": 46.69,
-    "en_on_nl": 41.42
+    "en_on_fr": 31.78,
+    "en_on_tl": 43.42,
+    "en_on_nl": 39.02
   },
   "test_match": {
     "df_shape": [
       256,
       4
     ],
-    "en_en_3": 18.15027441309356,
-    "en_tl_3": 46.688827382949036,
-    "en_nl_3": 41.424341005281526
+    "en_en_3": 18.150274413109173,
+    "en_tl_3": 43.42381652811483,
+    "en_nl_3": 39.02412317602612
   },
   "test_generate": {
     "english_2_gram": "I amoulpeginShmee bie ae",
